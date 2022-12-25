@@ -10,6 +10,10 @@
     background-color: #FFF;
 }
 
+.bg-color-personal-info {
+    background-color: #F4F4F4;
+}
+
 .ui-menu-color-home {
     background-color: #E67E22;
 }
@@ -33,7 +37,7 @@ h1, h2, h3, h4 {
 }
 
 .uppercase {
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .general-sub {
@@ -185,8 +189,8 @@ footer {
 }
 
 .social-links li a i {
-    width: 35px;
-    height: 35px;
+    width: 32px;	
+    height: 32px;
     padding: 12px 0;
     border-radius: 50%;
     font-size: 13px;
